@@ -6,3 +6,4 @@ attachments/*
 !attachments/.gitkeep
 sender.txt
 recipients.txt
+temp_list.txt
